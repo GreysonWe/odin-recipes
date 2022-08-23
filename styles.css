@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(251, 217, 173);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe-links {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    border-style: double;
+    border-color: rgb(255, 255, 255);
+    border-width: 10px;
+}
+
+.ingredient-sub {
+    font-size: 18px;
+}
+
+hr {
+    border: 1px solid white;
+}
+
+footer {
+    display: block;
+    height: 500px;
+}
+
+button {
+    padding: 5px 15px;
+    margin: 30px 15px;
+    font-weight: 600;
+}
